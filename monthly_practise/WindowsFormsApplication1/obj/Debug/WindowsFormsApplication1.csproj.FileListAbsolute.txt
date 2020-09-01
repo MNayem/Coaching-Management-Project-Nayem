@@ -1,0 +1,16 @@
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\nayem\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\nayem\work(c sharp)\coaching_management_project\monthly_practise\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

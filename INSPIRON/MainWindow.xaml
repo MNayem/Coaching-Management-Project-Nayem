@@ -1,0 +1,25 @@
+﻿<Window x:Class="INSPIRON.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="600" BorderBrush="Green" BorderThickness="5" Background="WhiteSmoke">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="412" Margin="2,45,0,0" VerticalAlignment="Top" Width="175" Source="E:\nayem\work(c sharp)\coaching_management_project\INSPIRON.jpg" Stretch="Fill"/>
+        <Calendar HorizontalAlignment="Left" Margin="286,77,0,0" VerticalAlignment="Top" Width="179"/>
+        <TextBlock x:Name="txtdate" FontSize="24" HorizontalAlignment="Right" Margin="0,8,16,0" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Black"/>
+        <Button Content="Admin Portal" Background="WhiteSmoke" FontStyle="Italic" Foreground="Blue" HorizontalAlignment="Left" Margin="195,359,0,0" VerticalAlignment="Top" Width="94" Height="35" FontWeight="Bold" Click="Button_Click"/>
+        <Button x:Name="btn_teacher" Background="WhiteSmoke" Foreground="Blue" FontStyle="Italic" Content="Teacher Portal" HorizontalAlignment="Left" Margin="332,359,0,0" VerticalAlignment="Top" Width="94" Height="35" FontWeight="Bold"/>
+        <Button x:Name="btn_student" Content="Student Portal" HorizontalAlignment="Left" FontStyle="Italic" Margin="465,359,0,0" VerticalAlignment="Top" FontWeight="Bold" Background="WhiteSmoke" Foreground="Blue" Width="94" Height="35" Click="btn_student_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="197,256,0,0" VerticalAlignment="Top" Width="92" Source="E:\nayem\work(c sharp)\coaching_management_project\project pic\Admin.jpg" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="334,254,0,0" VerticalAlignment="Top" Width="92"  Stretch="Fill" Source="E:\nayem\work(c sharp)\coaching_management_project\project pic\TEACHER.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="465,254,0,0" VerticalAlignment="Top" Width="92" Source="E:\nayem\work(c sharp)\coaching_management_project\project pic\Student.jpg" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Aqua" Width="211" Margin="269,0,102,20"> <Run FontWeight="Bold" FontStyle="Italic" Text="  CopyRight Inspiron,Khulna     " FontSize="16"></Run></TextBlock>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Green" FontWeight="Bold" FontStyle="Oblique" Margin="324,0,153,5" Width="105"> 
+            <Hyperlink NavigateUri="http://nwu.edu.bd" RequestNavigate="request_website">
+             www.nwu.edu.bd 
+            </Hyperlink>
+
+        </TextBlock>
+        <Button x:Name="btn_about" Foreground="Green" Background="WhiteSmoke" FontStyle="Oblique" Content="About" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="40" FontWeight="Bold" FontSize="20" Click="btn_about_Click"/>
+        <Button x:Name="btn_exit" Foreground="Red" Background="WhiteSmoke" FontStyle="Oblique" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="40" Margin="75,0,0,0" FontWeight="Bold" FontSize="20" Click="btn_exit_Click"/>
+    </Grid>
+</Window>

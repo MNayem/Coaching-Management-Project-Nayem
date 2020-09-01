@@ -1,0 +1,15 @@
+﻿<Window x:Class="INSPIRON.Student_Portal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student_Portal" Height="300" Width="600" Background="Thistle" BorderBrush="Blue" BorderThickness="3" Icon="F:\nayem\coaching_management_project\INSPIRON.jpg">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="262" Margin="1,1,0,0" VerticalAlignment="Top" Width="134" Source="F:\nayem\coaching_management_project\project pic\Student.jpg" Stretch="Fill"/>
+        <TextBox x:Name="txt_stdntid" HorizontalAlignment="Left" Height="26" Margin="277,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="270"/>
+        <PasswordBox x:Name="txt_pwd" HorizontalAlignment="Left" Margin="277,112,0,0" VerticalAlignment="Top" Width="182" Height="26"/>
+        <Label Content="Student ID :" FontStyle="Oblique" HorizontalAlignment="Left" Margin="138,52,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="Password :" FontStyle="Oblique" HorizontalAlignment="Left" Margin="138,108,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Button x:Name="btn_login1" Content="Login" Foreground="Green" FontStyle="Italic" Background="Thistle" HorizontalAlignment="Left" Margin="277,171,0,0" VerticalAlignment="Top" Width="93" Height="37" FontWeight="Bold" FontSize="24" Click="btn_login1_Click"/>
+        <Button x:Name="btn_cancel1" Content="Cancel" Foreground="Red" FontStyle="Italic" Background="Thistle" HorizontalAlignment="Left" Margin="456,171,0,0" VerticalAlignment="Top" Width="93" Height="37" FontWeight="Bold" FontSize="24" Click="btn_cancel1_Click"/>
+
+    </Grid>
+</Window>

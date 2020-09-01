@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{410EE44A-45E2-4CEC-A40E-DE11FA8FCDB9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>INSPIRON</RootNamespace>
+    <AssemblyName>INSPIRON</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="About.xaml.cs">
+      <DependentUpon>About.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="About_Video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Video.Designer.cs">
+      <DependentUpon>About_Video.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class_Ten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class_Ten.Designer.cs">
+      <DependentUpon>Class_Ten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cost.Designer.cs">
+      <DependentUpon>Cost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exam_Syllebus.xaml.cs">
+      <DependentUpon>Exam_Syllebus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Incom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Incom.Designer.cs">
+      <DependentUpon>Incom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoticeBoard.Designer.cs">
+      <DependentUpon>NoticeBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profit.Designer.cs">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remainder_SMS_for_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remainder_SMS_for_student.Designer.cs">
+      <DependentUpon>Remainder_SMS_for_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Fee.xaml.cs">
+      <DependentUpon>Student_Fee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Portal.xaml.cs">
+      <DependentUpon>Student_Portal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Profile.Designer.cs">
+      <DependentUpon>Student_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Result.Designer.cs">
+      <DependentUpon>Student_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Section.xaml.cs">
+      <DependentUpon>Student_Section.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher_Profile.Designer.cs">
+      <DependentUpon>Teacher_Profile.cs</DependentUpon>
+    </Compile>
+    <Page Include="About.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Account_Section.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Admin_login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Admin_Panel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Admission_Form.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Exam_Syllebus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Account_Section.xaml.cs">
+      <DependentUpon>Account_Section.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_login.xaml.cs">
+      <DependentUpon>Admin_login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Panel.xaml.cs">
+      <DependentUpon>Admin_Panel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Admission_Form.xaml.cs">
+      <DependentUpon>Admission_Form.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Student_Fee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Student_Portal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Student_Section.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="About_Video.resx">
+      <DependentUpon>About_Video.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class_Ten.resx">
+      <DependentUpon>Class_Ten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cost.resx">
+      <DependentUpon>Cost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Incom.resx">
+      <DependentUpon>Incom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoticeBoard.resx">
+      <DependentUpon>NoticeBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profit.resx">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remainder_SMS_for_student.resx">
+      <DependentUpon>Remainder_SMS_for_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Profile.resx">
+      <DependentUpon>Student_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Result.resx">
+      <DependentUpon>Student_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_Profile.resx">
+      <DependentUpon>Teacher_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="INSPIRON.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Student.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INSPIRON.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

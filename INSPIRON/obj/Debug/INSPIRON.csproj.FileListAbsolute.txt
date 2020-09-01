@@ -1,0 +1,184 @@
+F:\New folder\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe.config
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csprojResolveAssemblyReference.cache
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\App.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON_MarkupCompile.cache
+F:\New folder\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe
+F:\New folder\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.pdb
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\MainWindow.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\MainWindow.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.g.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Properties.Resources.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.GenerateResource.Cache
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.exe
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.pdb
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admin_login.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admin_login.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Account_Section.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Account_Section.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.g.cs
+F:\New folder\coaching_management_project\INSPIRON\bin\Debug\Interop.WMPLib.dll
+F:\New folder\coaching_management_project\INSPIRON\bin\Debug\AxInterop.WMPLib.dll
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Interop.WMPLib.dll
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\AxInterop.WMPLib.dll
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.ResolveComReference.cache
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\About.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\About.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.About_Video.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Remainder_SMS_for_student.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Incom.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Cost.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Profit.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Section.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Student_Section.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Profile.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Teacher_Profile.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Result.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Class_Ten.resources
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.baml
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.g.cs
+F:\New folder\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.NoticeBoard.resources
+F:\nayem\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe.config
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Interop.WMPLib.dll
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\AxInterop.WMPLib.dll
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.ResolveComReference.cache
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.exe
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.pdb
+F:\nayem\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe
+F:\nayem\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.pdb
+F:\nayem\coaching_management_project\INSPIRON\bin\Debug\Interop.WMPLib.dll
+F:\nayem\coaching_management_project\INSPIRON\bin\Debug\AxInterop.WMPLib.dll
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csprojResolveAssemblyReference.cache
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\About.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Account_Section.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admin_login.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\MainWindow.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Section.baml
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\About.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Account_Section.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admin_login.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\MainWindow.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\Student_Section.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\App.g.cs
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON_MarkupCompile.cache
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.g.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.About_Video.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Class_Ten.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Cost.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Incom.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.NoticeBoard.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Profit.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Properties.Resources.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Remainder_SMS_for_student.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Profile.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Result.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Teacher_Profile.resources
+F:\nayem\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.GenerateResource.Cache
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe.config
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Interop.WMPLib.dll
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\AxInterop.WMPLib.dll
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.ResolveComReference.cache
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.exe
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.pdb
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.pdb
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\Interop.WMPLib.dll
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\AxInterop.WMPLib.dll
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csprojResolveAssemblyReference.cache
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\About.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Account_Section.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_login.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\MainWindow.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Section.baml
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\About.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Account_Section.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_login.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\MainWindow.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Section.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\App.g.cs
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON_MarkupCompile.cache
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.g.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.About_Video.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Class_Ten.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Cost.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Incom.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.NoticeBoard.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Profit.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Properties.Resources.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Remainder_SMS_for_student.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Profile.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Result.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Teacher_Profile.resources
+F:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.GenerateResource.Cache
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe.config
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Interop.WMPLib.dll
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\AxInterop.WMPLib.dll
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.ResolveComReference.cache
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.exe
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.pdb
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.exe
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\INSPIRON.pdb
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\Interop.WMPLib.dll
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\bin\Debug\AxInterop.WMPLib.dll
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csprojResolveAssemblyReference.cache
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\About.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Account_Section.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_login.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\MainWindow.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Section.baml
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\About.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Account_Section.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_login.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admin_Panel.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Admission_Form.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Exam_Syllebus.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\MainWindow.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Fee.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Portal.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\Student_Section.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\App.g.cs
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON_MarkupCompile.cache
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.g.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.About_Video.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Class_Ten.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Cost.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Incom.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.NoticeBoard.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Profit.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Properties.Resources.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Remainder_SMS_for_student.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Profile.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Student_Result.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.Teacher_Profile.resources
+E:\nayem\work(c sharp)\coaching_management_project\INSPIRON\obj\Debug\INSPIRON.csproj.GenerateResource.Cache

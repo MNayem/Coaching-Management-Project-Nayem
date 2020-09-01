@@ -1,0 +1,21 @@
+﻿<Window x:Class="INSPIRON.Student_Fee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student_Fee" Height="320" Width="500" Background="White" BorderBrush="Blue" BorderThickness="3">
+    <Grid>
+        <Label Content="Class Eight :" Foreground="Black" FontStyle="Oblique" HorizontalAlignment="Left" Margin="135,58,0,0" VerticalAlignment="Top" Width="98" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Class Nine :" Foreground="Black" FontStyle="Oblique" HorizontalAlignment="Left" Margin="135,91,0,0" VerticalAlignment="Top" Width="98" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Class Ten :" Foreground="Black" FontStyle="Oblique" HorizontalAlignment="Left" Margin="135,127,0,0" VerticalAlignment="Top" Width="98" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Class Eleven :" Foreground="Black" FontStyle="Oblique" HorizontalAlignment="Left" Margin="135,165,0,0" VerticalAlignment="Top" Width="98" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Class Twelve :" Foreground="Black" FontStyle="Oblique" HorizontalAlignment="Left" Margin="135,203,0,0" VerticalAlignment="Top" Width="112" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Two Thoushands Taka" Foreground="Green" FontStyle="Oblique" HorizontalAlignment="Left" Margin="274,60,0,0" VerticalAlignment="Top" Width="173" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Three Thoushands Taka" Foreground="Green" FontStyle="Oblique" HorizontalAlignment="Left" Margin="274,93,0,0" VerticalAlignment="Top" Width="173" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Three Thoushands Taka" Foreground="Green" FontStyle="Oblique" HorizontalAlignment="Left" Margin="274,129,0,0" VerticalAlignment="Top" Width="173" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Four Thoushands Taka" Foreground="Green" FontStyle="Oblique" HorizontalAlignment="Left" Margin="274,167,0,0" VerticalAlignment="Top" Width="173" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Four Thoushands Taka" Foreground="Green" FontStyle="Oblique" HorizontalAlignment="Left" Margin="274,205,0,0" VerticalAlignment="Top" Width="173" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Class-Wise Fee Of Student" Foreground="Blue" FontStyle="Italic" HorizontalAlignment="Left" Margin="114,10,0,0" VerticalAlignment="Top" Width="333" FontSize="24" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="243" Margin="2,37,0,0" VerticalAlignment="Top" Width="112" Source="F:\nayem\coaching_management_project\INSPIRON.jpg" Stretch="Fill"/>
+        <Button x:Name="btn_cancel" Content="Cancel" FontStyle="Oblique" Background="White" Foreground="Red" HorizontalAlignment="Left" Margin="401,239,0,0" VerticalAlignment="Top" Width="75" Height="33" FontWeight="Bold" FontSize="16" Click="btn_cancel_Click"/>
+        <Label Content="INSPIRON" FontStyle="Oblique" Foreground="Green" HorizontalAlignment="Left" Margin="2,1,0,0" VerticalAlignment="Top" Height="31" Width="112" FontWeight="Bold" FontSize="16"/>
+    </Grid>
+</Window>

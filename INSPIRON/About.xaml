@@ -1,0 +1,10 @@
+﻿<Window x:Class="INSPIRON.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="350" Width="300" Background="AntiqueWhite" BorderBrush="Blue" BorderThickness="3">
+    <Grid>
+        <Button x:Name="btn_about" Content="About" Background="AntiqueWhite" Foreground="Green" FontSize="24" FontWeight="Bold" FontStyle="Italic" HorizontalAlignment="Left" Margin="8,264,0,0" VerticalAlignment="Top" Width="85" Click="btn_about_Click"/>
+        <Button x:Name="btn_cancel" Content="Cancel" Background="AntiqueWhite" Foreground="Red" FontSize="24" FontWeight="Bold" FontStyle="Italic" HorizontalAlignment="Left" Margin="191,266,0,0" VerticalAlignment="Top" Width="85" Click="btn_cancel_Click"/>
+
+    </Grid>
+</Window>
